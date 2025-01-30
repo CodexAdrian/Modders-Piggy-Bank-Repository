@@ -52,5 +52,23 @@
         "url": "https://www.patreon.com/SpacEagle17"
       }
     ]
+  },
+  {
+    "author": "Terrarium Earth",
+    "primary_color": "0x568C4F",
+    "secondary_color": "0x99BC2A",
+    "alternate_attribution": [
+      "Terrarium"
+    ],
+    "links": [
+      {
+        "type": "ko-fi",
+        "url": "https://ko-fi.com/terrariumearth"
+      },
+      {
+        "type": "discord",
+        "url": "https://terrarium.earth/discord"
+      }
+    ]
   }
 ]
